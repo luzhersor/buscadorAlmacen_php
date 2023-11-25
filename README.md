@@ -1,6 +1,6 @@
 # Buscador de Almacén (PHP)
 
-Este proyecto es un buscador de almacén desarrollado en PHP básica. Proporciona funcionalidades para buscar productos almacenados.
+Este proyecto es un buscador de almacén desarrollado en PHP básica desplegado en 000webhost. Proporciona funcionalidades para buscar productos almacenados.
 
 ## Características
 
